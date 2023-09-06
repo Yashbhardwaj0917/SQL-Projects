@@ -3,6 +3,10 @@
 ## Overview
 This repository contains SQL queries for exploring and analyzing COVID-19 impact data. The queries are designed to work with a database containing COVID-19 deaths and vaccinations information.
 
+## Datasets
+https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidDeaths.xlsx
+https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidVaccinations.xlsx
+
 ## Table of Contents
 1. [Queries](#queries)
 2. [Data Sources](#data-sources)
